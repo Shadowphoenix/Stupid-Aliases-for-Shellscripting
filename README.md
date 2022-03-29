@@ -1,4 +1,4 @@
-# Stupid-Aliases-for-Shellscripting
+# Stupid Aliases for Shellscripting
 
 ## Stupid and funny ideas for Shellscripting
 These aliases can be put in `.bashrc` or similar configfiles. If your Shell isnt posix-compliant, you might need to adjust the command. Send Mergerequests with suggestions!
