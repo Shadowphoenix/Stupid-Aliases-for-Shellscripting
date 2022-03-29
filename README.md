@@ -1,0 +1,1 @@
+# Stupid-Aliases-for-Shellscripting
