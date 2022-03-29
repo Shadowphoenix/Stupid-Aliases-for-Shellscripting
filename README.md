@@ -1,7 +1,7 @@
 # Stupid-Aliases-for-Shellscripting
 
-Stupid and funny ideas for Shellscripting
+## Stupid and funny ideas for Shellscripting
 Send Mergerequests with suggestions!
 
-ATTENTION
+## ATTENTION
 Aliases in !Dangerous! will severely Damage or completely KILL your system,sometimes irreversible - use at your own risk!
