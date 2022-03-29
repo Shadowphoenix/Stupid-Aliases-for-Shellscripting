@@ -1,1 +1,2 @@
-
+alias yawn='systemctl suspend'
+alias zZzZ='shutdown now'
